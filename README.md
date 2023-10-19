@@ -18,42 +18,12 @@
   
 <!--- social media icons, you can find them in the assets directory of this repo --->
   
-<a href="https://twitter.com/">
-    <img height="55" alt="Yash Jaiswal | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
-</a>    
-  
-<a href="https://www.linkedin.com/in/boltjazz/" target="_blank">
-  <img height="55" alt="Yash Jaiswal | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
-</a> 
-  
-<a href="https://stackoverflow.com/users/22658065/yash-jaiswal" target="_blank">
-  <img height="55" alt="Yash Jaiswal | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
-</a>
-  
-<a href="https://www.instagram.com/yash_.jaiswal" target="_blank">
-  <img height="55" alt="Yash Jaiswal | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
-</a>
+
 
   
-<!--- a bit of vertical space & languages text --->
-  
-<div>&nbsp;</div>
-  
 
-<div></div>
-  
-  
-<!--- language icons --->
-  
 
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366251-81e7024b-81c6-422c-ae71-ad035850d030.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
-<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" /> 
-  
-  
-&nbsp;
 
-<br><br/>
 
 <h1 align="center">
 
