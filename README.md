@@ -1,4 +1,9 @@
-<h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Obo Coconut </h2>
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+<h1 align="center"> Hi,👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > OBO  SKY</h1>
+ <!----Tag line------>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 
 <!--- header image --->
 
